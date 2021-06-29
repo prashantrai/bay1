@@ -1,4 +1,5 @@
-# Getting Started
+# SpringBoot Application
+# Getting Started 
 
 ### Steps to build and launch the application
 1. Go to project dir (i.e. bay1) and run `mvn clean install`
